@@ -1,0 +1,4 @@
+win + r
+delay 500
+string notepad
+enter
